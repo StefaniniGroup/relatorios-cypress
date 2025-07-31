@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","68955","Acessar Documentos -> Editar Documento","","Thu Jul 31 12:39:27 BRT 2025","failed","Thu Jul 31 12:40:36 BRT 2025","","Funcionalidades -> Documentos -> Acessar Documentos","",""
+"","69337","Acessar Documentos -> Baixar Documento","","Thu Jul 31 12:40:37 BRT 2025","failed","Thu Jul 31 12:41:47 BRT 2025","","Funcionalidades -> Documentos -> Acessar Documentos","",""
+"","70302","Acessar Documentos -> Excluir Documento","","Thu Jul 31 12:41:47 BRT 2025","failed","Thu Jul 31 12:42:57 BRT 2025","","Funcionalidades -> Documentos -> Acessar Documentos","",""
+"","11382","Acessar Documentos -> Acessar tela de Acessar Documentos","","Thu Jul 31 12:38:04 BRT 2025","passed","Thu Jul 31 12:38:15 BRT 2025","","Funcionalidades -> Documentos -> Acessar Documentos","",""
+"","71225","Acessar Documentos -> Adicionar Documento","","Thu Jul 31 12:38:16 BRT 2025","failed","Thu Jul 31 12:39:27 BRT 2025","","Funcionalidades -> Documentos -> Acessar Documentos","",""
